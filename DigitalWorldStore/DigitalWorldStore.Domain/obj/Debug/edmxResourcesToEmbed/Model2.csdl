@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DigitalWorldStoreDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="AspNetRoles">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="AspNetUsers" Relationship="Self.AspNetUserRoles" FromRole="AspNetRoles" ToRole="AspNetUsers" />
+  </EntityType>
+  <EntityType Name="AspNetUserClaims">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ClaimType" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ClaimValue" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="AspNetUser" Relationship="Self.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" FromRole="AspNetUserClaims" ToRole="AspNetUsers" />
+  </EntityType>
+  <EntityType Name="AspNetUserLogins">
+    <Key>
+      <PropertyRef Name="LoginProvider" />
+      <PropertyRef Name="ProviderKey" />
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="LoginProvider" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ProviderKey" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UserId" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="AspNetUser" Relationship="Self.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" FromRole="AspNetUserLogins" ToRole="AspNetUsers" />
+  </EntityType>
+  <EntityType Name="AspNetUsers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="256" FixedLength="false" Unicode="true" />
+    <Property Name="EmailConfirmed" Type="Boolean" Nullable="false" />
+    <Property Name="PasswordHash" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="SecurityStamp" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PhoneNumberConfirmed" Type="Boolean" Nullable="false" />
+    <Property Name="TwoFactorEnabled" Type="Boolean" Nullable="false" />
+    <Property Name="LockoutEndDateUtc" Type="DateTime" Precision="3" />
+    <Property Name="LockoutEnabled" Type="Boolean" Nullable="false" />
+    <Property Name="AccessFailedCount" Type="Int32" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Year" Type="Int32" />
+    <Property Name="UserLastName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UserFirstName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="AspNetUserClaims" Relationship="Self.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" FromRole="AspNetUsers" ToRole="AspNetUserClaims" />
+    <NavigationProperty Name="AspNetUserLogins" Relationship="Self.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" FromRole="AspNetUsers" ToRole="AspNetUserLogins" />
+    <NavigationProperty Name="AspNetRoles" Relationship="Self.AspNetUserRoles" FromRole="AspNetUsers" ToRole="AspNetRoles" />
+    <NavigationProperty Name="Orders" Relationship="DigitalWorldStoreDBModel.FK_Orders_To_AspNetUsers" FromRole="AspNetUser" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="CartLists">
+    <Key>
+      <PropertyRef Name="RecordId" />
+    </Key>
+    <Property Name="RecordId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CartId" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <Property Name="Created" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Product" Relationship="Self.FK_CartLists_Products" FromRole="CartLists" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="Categories">
+    <Key>
+      <PropertyRef Name="CategoryId" />
+    </Key>
+    <Property Name="CategoryId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Products" Relationship="Self.FK_category_product" FromRole="Categories" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="OrderDetails">
+    <Key>
+      <PropertyRef Name="orderDetailId" />
+    </Key>
+    <Property Name="orderDetailId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="orderId" Type="Int32" Nullable="false" />
+    <Property Name="productId" Type="Int32" Nullable="false" />
+    <Property Name="quantity" Type="Int32" Nullable="false" />
+    <Property Name="productUnitPrice" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <NavigationProperty Name="Order" Relationship="Self.FK_orderDet_order" FromRole="OrderDetails" ToRole="Orders" />
+    <NavigationProperty Name="Product" Relationship="Self.FK_orderDet_product" FromRole="OrderDetails" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="orderID" />
+    </Key>
+    <Property Name="orderID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="customerFirstName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="customerLastName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="customerMiddleName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="deliveryAddress" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="customerPhone" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="customerEmail" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="totalPrice" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="created" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="userId" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="OrderDetails" Relationship="Self.FK_orderDet_order" FromRole="Orders" ToRole="OrderDetails" />
+    <NavigationProperty Name="AspNetUser" Relationship="DigitalWorldStoreDBModel.FK_Orders_To_AspNetUsers" FromRole="Order" ToRole="AspNetUser" />
+  </EntityType>
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="ProductId" />
+    </Key>
+    <Property Name="ProductId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryId" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Weight" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Price" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ImagePath" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CartLists" Relationship="Self.FK_CartLists_Products" FromRole="Products" ToRole="CartLists" />
+    <NavigationProperty Name="Category" Relationship="Self.FK_category_product" FromRole="Products" ToRole="Categories" />
+    <NavigationProperty Name="OrderDetails" Relationship="Self.FK_orderDet_product" FromRole="Products" ToRole="OrderDetails" />
+  </EntityType>
+  <Association Name="FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId">
+    <End Role="AspNetUsers" Type="DigitalWorldStoreDBModel.AspNetUsers" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="AspNetUserClaims" Type="DigitalWorldStoreDBModel.AspNetUserClaims" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AspNetUserClaims">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId">
+    <End Role="AspNetUsers" Type="DigitalWorldStoreDBModel.AspNetUsers" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="AspNetUserLogins" Type="DigitalWorldStoreDBModel.AspNetUserLogins" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AspNetUserLogins">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CartLists_Products">
+    <End Role="Products" Type="DigitalWorldStoreDBModel.Products" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="CartLists" Type="DigitalWorldStoreDBModel.CartLists" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="ProductId" />
+      </Principal>
+      <Dependent Role="CartLists">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_category_product">
+    <End Role="Categories" Type="DigitalWorldStoreDBModel.Categories" Multiplicity="1" />
+    <End Role="Products" Type="DigitalWorldStoreDBModel.Products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categories">
+        <PropertyRef Name="CategoryId" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_orderDet_order">
+    <End Role="Orders" Type="DigitalWorldStoreDBModel.Orders" Multiplicity="1" />
+    <End Role="OrderDetails" Type="DigitalWorldStoreDBModel.OrderDetails" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="orderID" />
+      </Principal>
+      <Dependent Role="OrderDetails">
+        <PropertyRef Name="orderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_orderDet_product">
+    <End Role="Products" Type="DigitalWorldStoreDBModel.Products" Multiplicity="1" />
+    <End Role="OrderDetails" Type="DigitalWorldStoreDBModel.OrderDetails" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="ProductId" />
+      </Principal>
+      <Dependent Role="OrderDetails">
+        <PropertyRef Name="productId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="AspNetUserRoles">
+    <End Type="DigitalWorldStoreDBModel.AspNetRoles" Multiplicity="*" Role="AspNetRoles" />
+    <End Type="DigitalWorldStoreDBModel.AspNetUsers" Multiplicity="*" Role="AspNetUsers" />
+  </Association>
+  <EntityContainer Name="DigitalWorldStoreDBEntities3" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AspNetRoles1" EntityType="DigitalWorldStoreDBModel.AspNetRoles" />
+    <EntitySet Name="AspNetUserClaims1" EntityType="DigitalWorldStoreDBModel.AspNetUserClaims" />
+    <EntitySet Name="AspNetUserLogins1" EntityType="DigitalWorldStoreDBModel.AspNetUserLogins" />
+    <EntitySet Name="AspNetUsers1" EntityType="DigitalWorldStoreDBModel.AspNetUsers" />
+    <EntitySet Name="CartLists1" EntityType="DigitalWorldStoreDBModel.CartLists" />
+    <EntitySet Name="Categories1" EntityType="DigitalWorldStoreDBModel.Categories" />
+    <EntitySet Name="OrderDetails1" EntityType="DigitalWorldStoreDBModel.OrderDetails" />
+    <EntitySet Name="Orders1" EntityType="DigitalWorldStoreDBModel.Orders" />
+    <EntitySet Name="Products1" EntityType="DigitalWorldStoreDBModel.Products" />
+    <AssociationSet Name="FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" Association="Self.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers1" />
+      <End Role="AspNetUserClaims" EntitySet="AspNetUserClaims1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" Association="Self.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers1" />
+      <End Role="AspNetUserLogins" EntitySet="AspNetUserLogins1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CartLists_Products" Association="Self.FK_CartLists_Products">
+      <End Role="Products" EntitySet="Products1" />
+      <End Role="CartLists" EntitySet="CartLists1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_category_product" Association="Self.FK_category_product">
+      <End Role="Categories" EntitySet="Categories1" />
+      <End Role="Products" EntitySet="Products1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_orderDet_order" Association="Self.FK_orderDet_order">
+      <End Role="Orders" EntitySet="Orders1" />
+      <End Role="OrderDetails" EntitySet="OrderDetails1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_orderDet_product" Association="Self.FK_orderDet_product">
+      <End Role="Products" EntitySet="Products1" />
+      <End Role="OrderDetails" EntitySet="OrderDetails1" />
+    </AssociationSet>
+    <AssociationSet Name="AspNetUserRoles" Association="Self.AspNetUserRoles">
+      <End EntitySet="AspNetRoles1" Role="AspNetRoles" />
+      <End EntitySet="AspNetUsers1" Role="AspNetUsers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Orders_To_AspNetUsers" Association="DigitalWorldStoreDBModel.FK_Orders_To_AspNetUsers">
+      <End Role="AspNetUser" EntitySet="AspNetUsers1" />
+      <End Role="Order" EntitySet="Orders1" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="FK_Orders_To_AspNetUsers">
+    <End Type="DigitalWorldStoreDBModel.AspNetUsers" Role="AspNetUser" Multiplicity="1" />
+    <End Type="DigitalWorldStoreDBModel.Orders" Role="Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUser">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="userId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

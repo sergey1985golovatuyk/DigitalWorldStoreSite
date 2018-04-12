@@ -1,0 +1,36 @@
+﻿<!--Partial view to help visualization of list of products-->
+
+@model DigitalWorldStore.Domain.Entities.Product
+
+
+@{ var path = Model.ImagePath;
+    if (String.IsNullOrEmpty(path)){ path = " "; }
+
+    }
+    <div class="ProductItemContainer">
+        <div id="productImageLink">
+            <a href="@Url.Action("ProductInfo","Product",new {productId = Model.ProductId})" style="text-decoration:none; font-weight:bold;">
+                <figure>
+                    <img src="@Url.Content(path)" alt="Фото товара временно недоступно">
+                    <figcaption style="color:red; text-decoration:none;">@Model.Name</figcaption>
+                </figure>
+            </a>
+        </div>
+            <div id="productDescription">
+                <h4>Описание:</h4>
+                @Model.Description
+            </div>
+            <div id="productPrice">
+                <h4>Цена: @Model.Price.ToString("c")</h4>
+            </div>
+            <div>
+            @using (Html.BeginForm("AddToCart", "ShoppingCart"))
+            {
+                @Html.HiddenFor(x => x.ProductId)
+                @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+                <input type="submit" value="+ Добавить в корзину" id="addToCartBtn" />
+            }
+        </div>
+    </div>
+
+

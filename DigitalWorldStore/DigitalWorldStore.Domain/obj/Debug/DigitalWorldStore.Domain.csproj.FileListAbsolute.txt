@@ -1,0 +1,135 @@
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll.config
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.pdb
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.csproj.CoreCompileInputs.cache
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.pdb
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll.config
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.pdb
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll.config
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.pdb
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll.config
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll.config
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.pdb
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.pdb
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll.config
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll.config
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll.config
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll.config
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.Domain\obj\Debug\DigitalWorldStore.Domain.pdb

@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Интернет магазин электроники</title>
+    <link href="~/Content/DigitalWorldLayoutStyle.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="wrapper">
+        <!-- верхний колонтитул и навигация -->
+        <header role="banner" class="group" id="header">
+            <div id="service_menu">
+            </div>
+            @{Html.RenderPartial("UserLoginWidget");}
+            <div id="logo">
+                <a id="logo_ref" href="@Url.RouteUrl(new { controller = "Home", action = "Index"})">
+                    <div id="logo_text">
+                        Интернет магазин электроники
+                    </div>
+                    <div id="logo_image">
+                        <img src="~/Images/MainPicture.png">
+                    </div>
+                    <div id="store_name">
+                        Цифровой Мир
+                    </div>
+                </a>
+            </div>
+            <form id="searchForm" action="/search" method="get" accept-charset="UTF-8">
+                <input type="search" id="header_search" value="Поиск товара">
+            </form>
+            <nav role="navigation">
+                <ul id="mainNavi">
+                    <li>
+                        <div class="btn-catalog-menu">
+                            <span id="menu_button_text">
+                                Каталог товаров
+                            </span>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="btn-catalog-menu">
+                            <span id="menu_button_text">
+                                Акции и скидки
+                            </span>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="btn-catalog-menu">
+                            <span id="menu_button_text">
+                                Новые модели
+                            </span>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="@Url.RouteUrl(new { controller = "Home", action = "DeliveryAndPayment"})">
+                         <div class="btn-catalog-menu">
+                                <span id="menu_button_text">
+                                    Доставка и Оплата
+                                </span>
+                         </div>
+                        </a>
+
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <! -- sidebar-->
+        <aside>
+            <div id="cataloglist">
+                @{ Html.RenderAction("CategoriesList", "Navigation");}
+            </div>
+        </aside>
+        @RenderBody()
+    <!-- footer -->
+    <footer role="contentinfo">
+        <div id="upper_footer">
+            <section id="footer_refs_left">
+                <a href="#" class="footer_ref">Доставка и Оплата</a>
+                <a href="#" class="footer_ref">Подарочная Карта</a>
+                <a href="#" class="footer_ref">Кредит</a>
+            </section>
+            <section id="footer_refs_right">
+                <a href="#" class="footer_ref">Гарантия и возврат денег</a>
+                <a href="#" class="footer_ref">Сервисные центры</a>
+                <a href="#" class="footer_ref">Услуги</a>
+            </section>
+            <section id="outer_refs">
+                <a id="instagram_ref" class="outher_ref" href="#"><img src="~/Images/instagram.png"></a>
+                <a id="vk_ref" class="outher_ref" href="#"><img src="~/Images/vkontakte.png"></a>
+                <a id="youtube_ref" class="outher_ref" href="#"><img src="~/Images/youtube.png"></a>
+            </section>
+        </div>
+        <div id="cart_footer">
+            <section id="cart_order">
+                <a href="@Url.RouteUrl(new { controller = "ShoppingCart", action = "Index"})" id="cart_ref" class="cart_order_class"><img src="~/Images/cart.png"></a>
+                <div id="products_qty" class="cart_order_class">0</div>
+                <div id="total_price" class="cart_order_class">Пока пусто</div>
+                <div id="make_order_footer" class="cart_order_class">Сделать заказ</div>
+            </section>
+        </div>
+    </footer>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*<!DOCTYPE html>
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>@ViewBag.Title</title>
+    </head>
+    <body>
+        <div>
+            @RenderBody()
+        </div>
+    </body>
+    </html>*@

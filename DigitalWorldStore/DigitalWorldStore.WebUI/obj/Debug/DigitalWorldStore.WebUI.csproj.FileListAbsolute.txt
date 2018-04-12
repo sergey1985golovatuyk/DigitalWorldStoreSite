@@ -1,0 +1,1031 @@
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\ApplicationInsights.config
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll.config
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.pdb
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe.config
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.rsp
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe.config
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.rsp
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.AppContext.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Console.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Compression.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Pipes.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.AccessControl.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Claims.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Threading.Thread.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.ValueTuple.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe.config
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.rsp
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.ValueTuple.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\WebGrease.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.pdb
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll.config
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.pdb
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.pdb
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.xml
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csproj.CoreCompileInputs.cache
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.dll
+D:\Programmig\ITMO_Practice\Diplom\15_2_2018\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.pdb
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\ApplicationInsights.config
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll.config
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.pdb
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe.config
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.rsp
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe.config
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.rsp
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Console.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.rsp
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.ValueTuple.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\WebGrease.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.pdb
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll.config
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.pdb
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.dll
+C:\Users\sergey golovatuyk\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.pdb
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\ApplicationInsights.config
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll.config
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.pdb
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.rsp
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.rsp
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.ValueTuple.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\WebGrease.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll.config
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.pdb
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.dll
+C:\Users\Sergey\Desktop\inWork\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.pdb
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\ApplicationInsights.config
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll.config
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.pdb
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.rsp
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.rsp
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.ValueTuple.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\WebGrease.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll.config
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.pdb
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.dll
+C:\Users\Sergey\Desktop\inWork_21_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.pdb
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\ApplicationInsights.config
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll.config
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.pdb
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe.config
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.rsp
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe.config
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.rsp
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Console.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.rsp
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.ValueTuple.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\WebGrease.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.pdb
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll.config
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.pdb
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.dll
+C:\Users\sergey golovatuyk\Desktop\inWork_22_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.pdb
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\ApplicationInsights.config
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll.config
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.pdb
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.rsp
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.rsp
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Owin.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.ValueTuple.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\WebGrease.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll.config
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.pdb
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.dll
+C:\Users\Sergey\Desktop\inWork_22_02_new\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.pdb
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\ApplicationInsights.config
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll.config
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.pdb
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.rsp
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.rsp
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Owin.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.ValueTuple.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\WebGrease.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll.config
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.pdb
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.dll
+C:\Users\Sergey\Desktop\inWork_23_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.pdb
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\ApplicationInsights.config
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll.config
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.pdb
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.rsp
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.rsp
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Owin.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.ValueTuple.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\WebGrease.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll.config
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.pdb
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.dll
+C:\Users\Sergey\Desktop\Dipliom_Final\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.pdb
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\ApplicationInsights.config
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll.config
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.WebUI.pdb
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csc.rsp
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\csi.rsp
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Owin.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.ValueTuple.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\WebGrease.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.pdb
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\DigitalWorldStore.Domain.dll.config
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Castle.Core.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.pdb
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Moq.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Ninject.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Optimization.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.dll
+C:\Users\Sergey\Desktop\Dipliom_Final_27_02\Project\DigitalWorldStore\DigitalWorldStore.WebUI\obj\Debug\DigitalWorldStore.WebUI.pdb

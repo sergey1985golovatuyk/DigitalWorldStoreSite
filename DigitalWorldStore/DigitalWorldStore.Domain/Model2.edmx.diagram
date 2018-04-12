@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="314a809cd8ee4bcca161b9406c3cdc3e" Name="Diagram1" ZoomLevel="104">
+        <EntityTypeShape EntityType="DigitalWorldStoreDBModel.AspNetRoles" Width="1.5" PointX="2.125" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigitalWorldStoreDBModel.AspNetUserClaims" Width="1.875" PointX="9.375" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigitalWorldStoreDBModel.AspNetUserLogins" Width="1.875" PointX="9.375" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigitalWorldStoreDBModel.AspNetUsers" Width="2" PointX="5.625" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigitalWorldStoreDBModel.CartLists" Width="1.75" PointX="9.5" PointY="13" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigitalWorldStoreDBModel.Categories" Width="1.75" PointX="2.125" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigitalWorldStoreDBModel.OrderDetails" Width="2" PointX="5.625" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigitalWorldStoreDBModel.Orders" Width="1.75" PointX="2.125" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigitalWorldStoreDBModel.Products" Width="2" PointX="5.625" PointY="13" IsExpanded="true" />
+        <AssociationConnector Association="DigitalWorldStoreDBModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="DigitalWorldStoreDBModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="DigitalWorldStoreDBModel.FK_CartLists_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="DigitalWorldStoreDBModel.FK_category_product" ManuallyRouted="false" />
+        <AssociationConnector Association="DigitalWorldStoreDBModel.FK_orderDet_order" ManuallyRouted="false" />
+        <AssociationConnector Association="DigitalWorldStoreDBModel.FK_orderDet_product" ManuallyRouted="false" />
+        <AssociationConnector ManuallyRouted="false" Association="DigitalWorldStoreDBModel.AspNetUserRoles" />
+        <AssociationConnector Association="DigitalWorldStoreDBModel.FK_Orders_To_AspNetUsers" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,21 @@
+﻿@model DigitalWorldStore.WebUI.Models.ProductListViewModel
+
+@{
+    ViewBag.Title = "Products";
+}
+
+@if (Model.CurrentCategory != null)
+{
+    <h3 id="productSummCatalogPath">Каталог -> @Model.CurrentCategory</h3>
+}
+
+
+@foreach (var p in Model.Products)
+{
+    Html.RenderPartial("ProductSummary",p);
+}
+
+<div class="pager">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x, category = Model.CurrentCategory }))
+</div>
+

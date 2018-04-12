@@ -1,0 +1,64 @@
+﻿@model DigitalWorldStore.WebUI.Models.CartIndexViewModel
+
+@{
+    ViewBag.Title = "Ваша Корзина";
+}
+
+
+<h3>Ваша Корзина: добавьте товары из каталога для оформления заказа</h3>
+<table width="90%" align="center" class="CartItemsContainer">
+    <thead>
+        <tr>
+            <th align="center">Количество</th>
+            <th align="center">Наименование</th>
+            <th align="center">Цена</th>
+            <th align="center">Сумма</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cart in Model.CartItems)
+        {
+        <tr>
+            <td align="center">@cart.Quantity</td>
+            <td align="center">@cart.Product.Name</td>
+            <td align="center">@cart.Product.Price.ToString("c")</td>
+            <td align="center">@((cart.Quantity * cart.Product.Price).ToString("c"))</td>
+            <td>
+                @using (Html.BeginForm("AddToCart", "ShoppingCart"))
+        {
+            @Html.Hidden("ProductId", cart.Product.ProductId)
+            <input class="cartActionBtn" type="submit" value="Добавить" />}
+            </td>
+            <td>
+                @using (Html.BeginForm("RemoveFromCart", "ShoppingCart"))
+        {
+            @Html.Hidden("ProductId", cart.Product.ProductId)
+            <input class="cartActionBtn" type="submit" value="Удалить" />
+}
+            </td>
+            <td>
+                @using (Html.BeginForm("RemoveCart", "ShoppingCart"))
+        {
+            @Html.Hidden("ProductId", cart.Product.ProductId)
+            <input class="cartActionBtn" type="submit" value="Удалить позицию" />
+}
+            </td>
+        </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <th colspan="3" align="right" >Total:</th>
+            <th align="right">
+                @Model.CartTotal.ToString("c")
+            </th>
+        </tr>
+    </tfoot>
+</table>
+<p class="makeOrderBtn">
+    @if (Model.CartTotal != 0)
+    {
+        @Html.ActionLink("Оформить Заказ", "Checkout", "ShoppingCart", null, new { @class = "makeOrderBtn1" })
+    }
+</p>
+

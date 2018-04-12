@@ -1,0 +1,11 @@
+﻿@model int
+@{
+    ViewBag.Title = "Заказ Оформлен";
+}
+<h2>Ваш Заказ Оформлен</h2>
+<p>Номер Вашего Заказа: @Model</p>
+<p>
+    
+    @Html.ActionLink("На Главную",
+"Index", "Home",null, null)
+</p>

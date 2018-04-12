@@ -1,0 +1,35 @@
+﻿@model DigitalWorldStore.Domain.Entities.Product
+
+    <div style="position:relative; float:right; margin:10px; background-color:azure; width:700px; ">
+        <div>
+            <h4>@Model.Name</h4>
+            @{ var path = Model.ImagePath; }
+            @if (String.IsNullOrEmpty(path)) { path = " "; }
+            <img src="@Url.Content(path)" alt="Фото товара временно недоступно">
+        </div>
+        <div style="font-weight:bold;">
+            Описание:
+            @Model.Description
+        </div>
+        <div>
+            <h4>Вес: @Model.Weight грамм</h4>
+        </div>
+        <div>
+            <h4>Цена: @Model.Price.ToString("c")</h4>
+        </div>
+        <div style="margin-bottom:10px;">
+            @using (Html.BeginForm("AddToCart", "ShoppingCart"))
+            {
+                @Html.HiddenFor(x => x.ProductId)
+                @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+                <input type="submit" value="+ Добавить в корзину" id="addToCartBtn" />
+            }
+        </div>
+        <div>
+            @Html.ActionLink("Назад", "List", "Product", null, null)
+        </div>        
+</div>
+<p>
+    @*@Html.ActionLink("Edit", "Edit", new { id = Model.ProductId }) |*@
+    @*@Html.ActionLink("Back to List", "Index")*@
+</p>

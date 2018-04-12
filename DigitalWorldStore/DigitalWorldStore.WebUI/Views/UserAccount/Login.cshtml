@@ -1,0 +1,33 @@
+﻿@model DigitalWorldStore.WebUI.Models.LoginModel
+
+@{
+    Layout = null;
+}
+
+<div style="float:left; margin-left:20px;">
+    <h1>Добро Пожаловать!</h1>
+    <h2>Вход на сайт интернет-магазина "Цифровой Мир"</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div>
+            @Html.ValidationSummary()
+            <input type="hidden" name="returnUrl" value="@ViewBag.returnUrl" />
+            <p>
+                <label>Логин(Email):</label><br />
+                @Html.EditorFor(x => x.Email)
+            </p>
+            <p>
+                <label>Пароль:</label><br />
+                @Html.EditorFor(x => x.Password)
+            </p>
+            <p style="margin:1px;"><button type="submit">Войти</button></p>
+            <div style="position:relative; margin-bottom:30px; margin-left:70px; margin-top:-20px;">@Html.ActionLink("Отмена", "Index", "Home", null, new { @class = "btn_" })</div>
+        </div>        
+        <div>Еще не являетесь нашим клиентом? Зарегистрируйтесь:</div>
+       @Html.ActionLink("Регистрация", "Register", "UserAccount", null, new { @class = "btn_" })
+    }
+</div>
+
