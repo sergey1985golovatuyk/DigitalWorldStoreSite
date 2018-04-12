@@ -125,7 +125,7 @@ li {
 .btn-catalog-menu {
     height: 60px;
     width: 235px;
-    background-color: greenyellow; /*#ff0000*/
+    background-color: #ff0000; /*#ff0000*/
     border-radius: 5px;
 }
 
